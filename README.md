@@ -20,6 +20,13 @@ so engineers can learn by doing, not just reading.
 ---
 ## 📦 Featured Repositories
 
+### 🔧 DevOps Resources
+
+| Repo | What It Is | Stars |
+|------|-----------|-------|
+| [linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) | Latest Linux Foundation certification discount codes | [![Stars](https://img.shields.io/github/stars/techiescamp/linux-foundation-coupon?style=flat&color=yellow)](https://github.com/techiescamp/linux-foundation-coupon/stargazers) |
+
+
 ### 🛠️ Projects & Hands-on Learning
 
 | Repo | What It Is | Stars |
@@ -34,15 +41,8 @@ so engineers can learn by doing, not just reading.
 | Repo | What It Is | Stars |
 |------|-----------|-------|
 | [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | Kubernetes roadmap from scratch to advanced | [![Stars](https://img.shields.io/github/stars/techiescamp/kubernetes-learning-path?style=flat&color=yellow)](https://github.com/techiescamp/kubernetes-learning-path/stargazers) |
-| [devops-roadmap](https://github.com/techiescamp/devops-roadmap) | Structured DevOps roadmap with practical tasks | [![Stars](https://img.shields.io/github/stars/techiescamp/devops-roadmap?style=flat&color=yellow)](https://github.com/techiescamp/devops-roadmap/stargazers) |
 | [cka-certification-guide](https://github.com/techiescamp/cka-certification-guide) | Complete CKA exam preparation guide | [![Stars](https://img.shields.io/github/stars/techiescamp/cka-certification-guide?style=flat&color=yellow)](https://github.com/techiescamp/cka-certification-guide/stargazers) |
 | [devops-interview-prep](https://github.com/techiescamp/devops-interview-prep) | 14-day DevOps interview preparation roadmap | [![Stars](https://img.shields.io/github/stars/techiescamp/devops-interview-prep?style=flat&color=yellow)](https://github.com/techiescamp/devops-interview-prep/stargazers) |
-
-### 🔧 DevOps Resources
-
-| Repo | What It Is | Stars |
-|------|-----------|-------|
-| [linux-foundation-coupon](https://github.com/techiescamp/linux-foundation-coupon) | Latest Linux Foundation certification discount codes | [![Stars](https://img.shields.io/github/stars/techiescamp/linux-foundation-coupon?style=flat&color=yellow)](https://github.com/techiescamp/linux-foundation-coupon/stargazers) |
 
 ---
 
