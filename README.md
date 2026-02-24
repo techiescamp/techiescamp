@@ -38,7 +38,7 @@ so engineers can learn by doing, not just reading.
 | [cka-certification-guide](https://github.com/techiescamp/cka-certification-guide) | Complete CKA exam preparation guide | [![Stars](https://img.shields.io/github/stars/techiescamp/cka-certification-guide?style=flat&color=yellow)](https://github.com/techiescamp/cka-certification-guide/stargazers) |
 | [devops-interview-prep](https://github.com/techiescamp/devops-interview-prep) | 14-day DevOps interview preparation roadmap | [![Stars](https://img.shields.io/github/stars/techiescamp/devops-interview-prep?style=flat&color=yellow)](https://github.com/techiescamp/devops-interview-prep/stargazers) |
 
-### 🔧 Tools & References
+### 🔧 DevOps Resources
 
 | Repo | What It Is | Stars |
 |------|-----------|-------|
@@ -46,24 +46,7 @@ so engineers can learn by doing, not just reading.
 
 ---
 
-## 🎓 Courses
-
-Want structured learning with mentorship and step-by-step guidance?
-
-We offer practical, project-based courses at **[courses.devopscube.com](https://courses.devopscube.com)** covering:
-
-- ☸️ Kubernetes — from beginner to CKA-level
-- 🚀 DevOps engineering fundamentals
-- 🤖 MLOps for DevOps and Platform engineers
-- ☁️ Cloud infrastructure on AWS
-
-> All courses are built around real projects. No death-by-slides.
-
-**[Browse All Courses →](https://courses.devopscube.com)**
-
----
-
-## 📩 Newsletter
+## 📩 DevOps/MLOps Newsletter
 
 Every week, the **DevOpsCube Newsletter** delivers one deep-dive to your inbox.
 
@@ -77,6 +60,20 @@ real-world context, and the kind of detail you would get from a senior engineer 
 - ☁️ Platform Engineering, SRE practices, and more
 
 **[Subscribe Free →](https://newsletter.devopscube.com)**
+
+## 🎓 Courses
+
+Want structured learning with mentorship and step-by-step guidance?
+
+We offer practical, project-based courses at **[courses.devopscube.com](https://courses.devopscube.com)** covering:
+
+- ☸️ Kubernetes — from beginner to CKA-level
+- 🚀 Comple Docker Course
+
+
+> All courses based on illuratrations to make you learn better.
+
+**[Browse All Courses →](https://courses.devopscube.com)**
 
 ---
 
