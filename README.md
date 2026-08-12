@@ -2,7 +2,7 @@
 
 # 👋 Welcome to DevOpsCube
 
-### A practical learning community for DevOps, Platform, and SRE engineers.
+### A practical learning community for DevOps, MLOPs, LLMOps and SRE Platform engineers.
 
 We build **open-source learning resources, hands-on projects, and production-grade guides** —
 so engineers can learn by doing, not just reading.
