@@ -46,7 +46,7 @@ so engineers can learn by doing, not just reading.
 
 ---
 
-## 📩 DevOps/MLOps Newsletter
+## 📩 DevOps/MLOps Newsletter (Join 20k+ Learners)
 
 Every week, the **DevOpsCube Newsletter** delivers one deep-dive to your inbox.
 
@@ -68,10 +68,10 @@ Want structured learning with mentorship and step-by-step guidance?
 We offer practical, project-based courses at **[courses.devopscube.com](https://courses.devopscube.com)** covering:
 
 - ☸️ Kubernetes — from beginner to CKA-level
-- 🚀 Comple Docker Course
+- 🚀 Complete Docker Course
 
 
-> All courses based on illuratrations to make you learn better.
+> All courses are based on illustrations to help you learn better.
 
 **[Browse All Courses →](https://courses.devopscube.com)**
 
