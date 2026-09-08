@@ -61,7 +61,7 @@ real-world context, and the kind of detail you would get from a senior engineer 
 
 **[Subscribe Free →](https://newsletter.devopscube.com)**
 
-## 🎓 Courses
+## 🎓 DevOpsCube Courses ((Join 10k+ Learners)
 
 Want structured learning with mentorship and step-by-step guidance?
 
